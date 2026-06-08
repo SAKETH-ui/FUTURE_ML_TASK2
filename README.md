@@ -2,7 +2,8 @@
 
 ## Accuracy
 
-![Accuracy](<img width="529" height="703" alt="Screenshot 2026-06-08 161457" src="https://github.com/user-attachments/assets/f1aced79-b9aa-455e-ae1a-b2c08147a843" />)
+![Accuracy](<img width="529" height="703" alt="Screenshot 2026-06-08 161457" src="https://github.com/user-attachments/assets/919dcff4-4461-434b-996f-08bdd484f0f7" />
+)
 
 ## Ticket Type Graph
 
