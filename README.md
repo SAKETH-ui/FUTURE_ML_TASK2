@@ -1,4 +1,4 @@
-<img width="660" height="670" alt="Screenshot 2026-06-08 161551" src="https://github.com/user-attachments/assets/cf7e6419-830c-424e-976c-ae54ecb8f994" /># Task 2 - Support Ticket Classification
+# Task 2 - Support Ticket Classification
 
 ## Accuracy
 
